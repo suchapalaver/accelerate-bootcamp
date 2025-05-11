@@ -18,9 +18,9 @@ There will be two 2-day sessions for this bootcamp, 5/12 - 5/13 and 5/14 - 5/15.
 
 2. Create an open sourced repository titled "Solana Accelerate".
 
-3. Fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSeC4fc-gmzOKepmkDic7RHw2mWwwJR1BTz_Ru8CfmmpcznAPw/viewform?usp=dialog).
+3. Set up your devnet solana wallet and fund it with SOL. Use the faucet [here](https://faucet.solana.com/).
 
-4. Set up your devnet solana wallet and fund it with SOL. Use the faucet [here](https://faucet.solana.com/).
+4. Fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSeC4fc-gmzOKepmkDic7RHw2mWwwJR1BTz_Ru8CfmmpcznAPw/viewform?usp=dialog).
 
 5. Create a new directory in the Accelerate Bootcamp repo titled `project-1-crud-app`. Follow this [guide](https://solana.com/developers/guides/dapps/journal) and then create, build and deploy to devnet with the address you provided in the above google form.
 
